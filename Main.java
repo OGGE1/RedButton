@@ -15,6 +15,8 @@ public class Main extends JFrame {
 
     JButton button = new JButton("Button");
     JPanel panel = new JPanel();
+    
+    //Added comment from GitHub
 
 
     Main() {
