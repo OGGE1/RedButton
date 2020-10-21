@@ -38,6 +38,7 @@ public class Main extends JFrame {
         button.addMouseListener(ma);
         setSize(300, 300);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
+        
         setVisible(true);
 
     }
